@@ -1,4 +1,4 @@
-package org.example.problemauno.commands;
+package org.example.Problema1.commands;
 
 public interface Command {
 

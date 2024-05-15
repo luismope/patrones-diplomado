@@ -1,4 +1,4 @@
-package org.example.problemauno;
+package org.example.Problema1;
 
 public class Task {
 

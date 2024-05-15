@@ -1,6 +1,6 @@
-package org.example.problemauno;
+package org.example.Problema1;
 
-import org.example.problemauno.commands.*;
+import org.example.Problema1.commands.*;
 
 public class Main {
     public static void main(String[] args) {

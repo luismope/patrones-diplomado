@@ -1,6 +1,6 @@
-package org.example.problemauno;
+package org.example.Problema1;
 
-import org.example.problemauno.commands.Command;
+import org.example.Problema1.commands.Command;
 
 import java.util.*;
 

@@ -1,7 +1,7 @@
-package org.example.problemauno.commands;
+package org.example.Problema1.commands;
 
-import org.example.problemauno.Invoker;
-import org.example.problemauno.Task;
+import org.example.Problema1.Invoker;
+import org.example.Problema1.Task;
 
 public class CompleteCommand implements Command {
 
