@@ -1,5 +1,3 @@
-# patrones-diplomado
-
-Patrón Builder
+## Patrón Builder
 
 ![img_1.png](img_1.png)

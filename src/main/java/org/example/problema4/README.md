@@ -1,1 +1,3 @@
-# patrones-diplomado
+# PATRON ADAPTER
+
+![Estructura.png](Estructura.png)
